@@ -11,8 +11,8 @@ I am changing my career guidance. In programming, in addition to the magic that 
 * Bootstrap
 * Git
 ### Code examples
-* https://github.com/olegletto/Resume.git(https://olegletto.github.io/Resume/)
-* https://github.com/olegletto/ReactWidget.git
+* [HTML coding](https://olegletto.github.io/Resume/), [code](https://github.com/olegletto/Resume.git)
+* [Weather widget](https://github.com/olegletto/ReactWidget.git)
 ### Education
 - **Lobachevsky University (UNN):** JavaScript basic course *(mar 2019-may 2019)* 
 - **Artezio Academy:** Development introduction *(june 2019 - july 2019)*
