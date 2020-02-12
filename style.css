@@ -1,0 +1,33 @@
+body {
+    font-family: 'Raleway', sans-serif;
+    font-size: 18px;
+    line-height: 30px;
+}
+
+.content {
+    width: 700px;
+    margin: 0 auto;
+    background-color: lightgrey;
+    padding: 1%;
+}
+
+a {
+    text-decoration: none;
+}
+
+.main_info {
+    width: 500px;
+}
+
+.main_photo {
+    width: 200px;
+}
+
+.photo {
+    text-align: center;
+}
+
+footer {
+    margin-bottom: 20px;
+    text-align: center;
+}
